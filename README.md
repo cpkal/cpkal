@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cpkal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Docker, Jenkins and some Front End frameworks
-- 💞️ I’m looking to collaborate on Website Development especially on Front End side
+- 👀 I’m interested in Web Development that have scalability 
+- 🌱 I’m currently learning Docker, Jenkins, and Best Practices for Scalable Applications.
+- 💞️ I’m looking to collaborate on Website Development especially on Front End  or even Backend. 
 - 📫 How to reach me: haikalg2003@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Always curious and Learner
