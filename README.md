@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cpkal
-- 👀 I’m interested in Web Development that have scalability 
+- 👀 I’m interested in Scalable Web Development 
 - 🌱 I’m currently learning Docker, Jenkins, and Best Practices for Scalable Applications.
 - 💞️ I’m looking to collaborate on Website Development especially on Front End  or even Backend. 
 - 📫 How to reach me: haikalg2003@gmail.com
