@@ -21,7 +21,7 @@
 </details>
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,reactjs,nextjs,mysql,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react,nextjs,mysql,flutter)](https://skillicons.dev)
 
 <!---
 cpkal/cpkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
