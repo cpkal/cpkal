@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cpkal
 - 👀 I’m interested in Scalable Web Development 
-- 🌱 I’m currently learning Docker, Kubernetes and Scalable Application
+- 🌱 I’m currently learning Docker, Kubernetes, Scalable Apps and interested in Competitive Programming.
 - 💞️ I’m looking to collaborate on Website Development especially on Front End  or even Backend. 
 - 📫 How to reach me: haikalg2003@gmail.com
 - 😄 Pronouns: He/Him
