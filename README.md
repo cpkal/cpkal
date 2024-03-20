@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Website Development especially on Front End  or even Backend. 
 - 📫 How to reach me: haikalg2003@gmail.com
 - 😄 Pronouns: He/Him
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokito555&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br />
   
 ![Github Profile](https://komarev.com/ghpvc/?username=cpkal&style=for-the-badge)
 
