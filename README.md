@@ -5,7 +5,8 @@
 - 📫 How to reach me: haikalg2003@gmail.com
 - 😄 Pronouns: He/Him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dokito555&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpkal&show_icons=true&theme=tokyonight)]
+<br/>
   
 ![Github Profile](https://komarev.com/ghpvc/?username=cpkal&style=for-the-badge)
 
